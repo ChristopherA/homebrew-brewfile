@@ -25,6 +25,8 @@ cask "transmission"
 cask "carbon-copy-cloner"
 cask "mullvadvpn"
 cask "github"
+cask "dropbox"
+cask "vmware-fusion"
 
 # App Store
 
