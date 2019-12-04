@@ -28,6 +28,9 @@ brew "pinentry-mac"
 brew "stow"
 cask "mullvadvpn"
 
+## Web tools
+brew "wget"
+
 ## CLI tools
 brew "jq"
 
