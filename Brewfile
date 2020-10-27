@@ -15,18 +15,19 @@ tap "buo/cask-upgrade"
 brew "mas"
 
 ## Git-related
-brew "git"
+#brew "git"
 brew "github-keygen"
 brew "git-lfs"
-brew "git-crypt"
+#brew "git-crypt"
 brew "hub"
+brew "gh"
 
 ## Security related
 
 brew "gnupg"
 brew "pinentry-mac"
 brew "stow"
-cask "mullvadvpn"
+#cask "mullvadvpn"
 
 ## Web tools
 brew "wget"
@@ -41,14 +42,14 @@ cask "atom"
 cask "typora"
 
 # Disk and Sync
-cask "dropbox"
+# cask "dropbox"
 cask "carbon-copy-cloner"
 
 # Media
-cask "vlc"
-cask "transmission"
+#cask "vlc"
+#cask "transmission"
 cask "github"
-cask "vmware-fusion"
+# cask "vmware-fusion"
 
 # App Store
 
